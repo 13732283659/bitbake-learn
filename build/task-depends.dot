@@ -1,0 +1,3 @@
+digraph depends {
+"first.do_build" [label="first do_build\n:-r1\n/home/tssh/Downloads/workspace/personal_git/bitbake-learn/build/../meta-tutorial/recipes-tutorial/first/first_0.1.bb"]
+}

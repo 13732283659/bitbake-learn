@@ -1,0 +1,18 @@
+DEBUG: Executing shell function do_build
++ do_build
++ mybuild_do_build
++ echo running mybuild_do_build.
++ ret=0
++ trap  0
++ exit 0
+
++ do_build
++ mybuild_do_build
++ echo running mybuild_do_build.
++ ret=0
++ trap  0
++ exit 0
+running mybuild_do_build.
+
+running mybuild_do_build.
+DEBUG: Shell function do_build finished

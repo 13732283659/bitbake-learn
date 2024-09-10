@@ -1,0 +1,2 @@
+addtask build
+EXPORT_FUNCTIONS do_build
